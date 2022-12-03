@@ -1,2 +1,5 @@
 /target
 .env
+
+#emacs files
+*\~
